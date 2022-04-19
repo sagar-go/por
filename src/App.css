@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Alice&family=Allerta+Stencil&family=Poppins:wght@100;200;300;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+
+a {
+  text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
